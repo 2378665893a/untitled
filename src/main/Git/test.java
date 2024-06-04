@@ -6,5 +6,6 @@ public class test {
         System.out.println("bbb git!");
         System.out.println("main test");
         System.out.println("git test2!");
+        System.out.println("git更新");
     }
 }
